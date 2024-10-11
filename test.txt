@@ -1,0 +1,5 @@
+int main (void) {
+	int bruh = 69;
+
+	return 420;
+}
